@@ -3,7 +3,6 @@ A project entry for Hack In The North (HINT) 2020 Hackathon. <br>
 Kisan CropAllot is a crop management system that allocates crops to farmers on the basis of the highest requirement crop predicted using machine learning from the crops that are suitable for their area according to the previous years crop production ,the season in which the crop is to be grown and the size of their farm-land. It consists of an App for the user, asking about their details and providing recommendations.
 
 <br>
-<br>
 
 ## Mobile Application
 
@@ -28,7 +27,7 @@ Dataset was obtained from <a href="https://data.gov.in/node/87630">here</a> .
 - Model Prediction was done via DecisionTree and RandomForest Regressors.
 - The top 5 crops closest to the production predicted were selected.
   
-  <br><br>
+  <br>
   
 ## Team: ***GrayMatters***
 - [Arpit Agarwal](https://github.com/aarpit1010/)
