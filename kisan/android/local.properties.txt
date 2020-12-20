@@ -1,0 +1,2 @@
+sdk.dir=/home/priyanshu/Android/Sdk
+flutter.sdk=/home/priyanshu/Desktop/app_dev/flutter
